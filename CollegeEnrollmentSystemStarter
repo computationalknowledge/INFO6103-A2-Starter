@@ -1,0 +1,29 @@
+
+public class MainApplication {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	class College{
+		
+		
+	}
+	
+	class StudentSection{
+		
+		Student [] students = new Student[5];
+	}
+	
+	class Classroom{
+		
+		
+	}
+	
+	class Student{
+		
+		
+	}
+
+}
